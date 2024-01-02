@@ -1,6 +1,6 @@
 # NLP Specialization Course
 
-This repository has all my Lab work and Assignment submissions for the [NLP Specialization](https://www.deeplearning.ai/courses/natural-language-processing-specialization/) offered by [deeplearning.ai](deeplearning.ai). The tasks for each week for each of the 4 courses in the specialization are listed below.
+This repository has all my Lab work and Assignment submissions for the [NLP Specialization](https://www.deeplearning.ai/courses/natural-language-processing-specialization/) offered by [deeplearning.ai](deeplearning.ai).
 
 [Natural Language Processing with Classification and Vector Spaces](NLP%20with%20Classification%20&%20Vector%20Spaces)
 -----
