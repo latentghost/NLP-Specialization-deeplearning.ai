@@ -2,7 +2,7 @@
 
 This repository has all my Lab work and Assignment submissions for the [NLP Specialization](https://www.deeplearning.ai/courses/natural-language-processing-specialization/) offered by [deeplearning.ai](deeplearning.ai). The tasks for each week for each of the 4 courses in the specialization are listed below.
 
-[Natural Language Processing with Classification and Vector Spaces](NLP with Classification & Vector Spaces)
+[Natural Language Processing with Classification and Vector Spaces](/NLP with Classification & Vector Spaces)
 -----
 **Week 1: Logistic Regression for Sentiment Analysis of Tweets**
 - Sentiment Classification in tweets
@@ -20,7 +20,7 @@ This repository has all my Lab work and Assignment submissions for the [NLP Spec
 - Translation algorithm using pre-computed word embeddings and Locality Sensitive Hashing to relate words via Approximate k-Nearest Neighbors
 
 
-[Natural Language Processing with Probabilistic Models](NLP with Probabilistic Models)
+[Natural Language Processing with Probabilistic Models](/NLP with Probabilistic Models)
 ----
 **Week 1: Auto-correct using Minimum Edit Distance**
 - Auto-correct using Minimum Edit Distance
